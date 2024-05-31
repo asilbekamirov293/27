@@ -1,0 +1,79 @@
+.icon {
+    font-size: 100px;
+}
+.box {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: 500px;
+    left: 200px;
+}
+.box2 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: 380px;
+    left: 350px;
+}
+.box3 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: 260px;
+    left: 500px;
+}
+.box4 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: 140px;
+    left: 650px;
+}
+.box5 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: 20px;
+    left: 800px;
+}
+.box6 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: -100px;
+    left: 950px;
+}
+.box7 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: -220px;
+    left: 1100px;
+}
+.box8 {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    position: relative;
+    top: -340px;
+    left: 1250px;
+}
+.icons {
+    position: relative;
+    left: 300px;
+}
